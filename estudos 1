@@ -1,0 +1,173 @@
+<html>
+    <head>
+        <title>www.envisia.com.br</title>
+        <meta charset="utf8">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/imagens.css">
+    </head>
+    <body>
+        <div class="top"></div>
+        <!-- fim da div top-->
+        
+        <div class="linha"></div>
+        <!-- fim da div linha-->
+
+        <div class="container_carrosel"></div>
+        <!-- fim da div carrosel-->
+
+        <div class="experiencia">
+            <div class="cotacao">
+
+            </div>
+            <!-- fim da div cotação-->
+        </div>
+        <!-- fim da div experiência-->
+
+        <div class="faleconosco"></div>
+        <div class="menu_footer"></div>
+
+        <div class="default">
+
+            <img src="imagens/map.png" class="ico_maps">
+            
+            <div class="endereco">
+                <span class="txtBranco">
+                    R  Marcos Markarian, 1025 - SL 909 - Nova Aliança Ribeirão Preto - SP
+                </span>
+            </div>
+            <!-- fim da div endereço-->
+
+            <img src="imagens/email.png" class="ico_email">
+
+            <div class="email">
+                <p class="txtBranco"><strong>E-mail</strong>
+                comercial@envisia.com.br</p>
+            </div>
+            <!-- fim da div email-->
+
+            <div class="icones">
+                <img src="imagens/instagram.png" class="ico_insta">
+                <img src="imagens/in.png" class="ico_in">
+                <img src="imagens/youtube.png" class="ico_you">
+            </div>
+            <!-- fim da div ícones-->
+
+            <div class="logo">
+                <img src="imagens/Logo.png" class="img_logo">
+            </div>
+            <!-- fim da div logo-->
+
+            <div class="contato">
+                CONTATO<BR>
+                (11) 2533-2583
+            </div>
+            <!-- fim da div contato-->
+
+            <div class="orcamento">
+                <input type="button" value="Orçamento">
+            </div>
+            <!-- fim da div orçamento-->
+
+            <div class="menu">
+                <ul>
+                    <li><a href="#">HOME</a></li> 
+                    <li><a href="">SOBRE</a></li> 
+                    <li><a href="">SOLUÇÕES</a></li> 
+                    <li><a href="">PRODUTOS</a></li> 
+                    <li><a href="">BLOG</a></li> 
+                    <li><a href="">CONTATO</a></li>
+                </ul>
+            </div>
+            <!-- fim da div menu-->
+
+            <div class="pesquisa">
+                <input>
+            </div>
+            <!-- fim da div pesquisa-->           
+            
+            <div class="carrosel">
+                <img class="img_carrosel" src="imagens/1.png">
+
+            </div>
+            <!-- fim da div carrosel -->
+
+            <div class="imagens">
+                <span>
+                    <span>
+                        <img class="img_produtos" src="imagens/conectividade.png" >
+                    </span>
+                    <span>
+                        <img class="img_software" src="imagens/software.png" >                                         
+                    </span>
+                    <span>
+                        <img class="img_plataforma" src="imagens/plataforma.png" >
+                        
+                    </span>
+                    <span>
+                        <img class="img_servicos" src="imagens/serviços.png" >
+                        
+                    </span>
+                </span>
+                <span class="txt_alinhamento">
+                    <ul class="txt">
+                        <li class="txt">PRODUTOS</li>
+                        <li class="txt">SOFTWARE</li>
+                        <li class="txt">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPLATAFORMA SAAS</li>
+                        <li class="txt">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSERVIÇOS</li>
+                    </ul>
+                </span>
+            </div><!-- fim da div imagens-->
+
+            <div class="experiencia_interno">
+                <div class="experiencia_interno2">
+
+                </div>
+                <!-- fim da div experiência interno-->
+
+                <div class="blog">
+
+                </div>
+                <!-- fim da div blog -->
+
+            <div class="faleconosco_interno">
+                 <form name "FrmContato">
+                     <table>
+                         <tr>
+                             <td>Nome:</td>
+                             <td>Telefone:</td>
+                         </tr>
+                         <tr>
+                            <td><input name="Nome" class="input"></input></td>
+                            <td><input name="Telefone" class="input"></input> </td>
+                        </tr>
+                        <tr>
+                            <td>E-mail:</td>
+                            <td>Empresa:</td>
+                        </tr>
+                        <tr>
+                            <td><input name="E-mail" class="input"></input></td>
+                            <td><input name="Empresa" class="input" ></input> </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Sua Mensagem:</input></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><input type="text" class="textarea" name="Mensagem" ></input></td>
+                        </tr>
+                        <tr>
+                            
+                            <td colspan="2">  <a href="#">  <input class="enviar" name="enviar" type="submit" >  </a> </input> </a> </td>
+                        </tr>
+                     </table>
+                 </form>         
+            </div>
+            <!-- fim da div faleconosco-->
+
+            </div>
+            <!-- fim da div experiência interno-->
+
+        </div><!-- Fim da div default-->
+
+
+    </body>
+</html>
